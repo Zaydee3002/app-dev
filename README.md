@@ -12,5 +12,5 @@
 
 ## Sword Art Online
 
-![Swort Art Online](<img width="1024" height="664" alt="cv0XWC" src="https://github.com/user-attachments/assets/40ad8228-e6c8-40bc-9cdc-0e13378a252c" />
-)
+<img width="1024" height="664" alt="cv0XWC" src="https://github.com/user-attachments/assets/77b015c8-2058-4915-b790-8d75932c49e1" />
+
